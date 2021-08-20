@@ -1,0 +1,9 @@
+el numero 5 por 1 es: 5
+el numero 5 por 2 es: 10
+el numero 5 por 3 es: 15
+el numero 5 por 4 es: 20
+el numero 5 por 5 es: 25
+el numero 5 por 6 es: 30
+el numero 5 por 7 es: 35
+el numero 5 por 8 es: 40
+el numero 5 por 9 es: 45
